@@ -8,7 +8,7 @@
   },
   "author": "DaAwesomeP",
   "homepage_url": "https://github.com/DaAwesomeP/Searchonymous2",
-	"version": "0.0.1",
+	"version": "2.0.0",
 	"description": "Search anonymously on Google while staying logged in on services such as Youtube, Gmail, etc.",
 	"icons": {
 		"48": "icon.plain.min.svg"
